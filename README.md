@@ -2,14 +2,14 @@
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Atul</h1>
-<h3 align="center">A Passionate Full stack Developer from India</h3>
+<h3 align="center">A Passionate ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b0/4e/d5/b04ed51833a34c5c724d5231c7d89b31.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul0720&label=Profile%20views&color=0e75b6&style=flat" alt="atul0720" /> </p>
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **DSA and Mern stack Web Development**
+- 🌱 I’m currently learning **ML Engineering and AI Development**
 
 - 📫 How to reach me **atulkushwaha0720@gmail.com**
 
