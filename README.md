@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="animated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=1F4E79&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;AI+Developer;Building+Intelligent+Systems;Solving+Real+World+Problems" />
 </p>
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">A Passionate ML Engineer from India</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul0720&label=Profile%20views&color=0e75b6&style=flat" alt="atul0720" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on **AI Based Applications**
 
 - 🌱 I’m currently learning **ML Engineering and AI Development**
 
